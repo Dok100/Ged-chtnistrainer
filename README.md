@@ -1,3 +1,27 @@
+
+# Gedächtnistrainer
+Trainings für das Kurzzeitgedächtnisss
+
+## Installation
+Install the npm packages:
+
+```bash
+npm install
+```
+
+## Lokalen Server starten
+Starte den statischen Server mit:
+
+```bash
+npm start
+```
+
+Danach läuft die Anwendung unter <http://localhost:5000>.
+
+## Hinweise
+Die App besteht nur aus statischen Dateien. React und Babel werden über CDNs
+eingebunden, daher ist kein Build-Schritt notwendig.
+=======
 # Konzept für die Kurzzeitgedächtnis-Trainings-Web-App
 
 ## 1. Überblick und Zielsetzung
@@ -182,3 +206,4 @@ Basierend auf den ausgewählten wissenschaftlichen Methoden werden folgende Trai
    - Build-Prozess optimieren
    - Deployment auf Hosting-Plattform
    - Finale Tests in Produktionsumgebung
+
