@@ -1,0 +1,11 @@
+{
+  "name": "kurzzeitgedaechtnis-trainer",
+  "version": "1.0.0",
+  "description": "Web-App zum Training des Kurzzeitgedächtnisses",
+  "scripts": {
+    "start": "npx serve -s public",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
