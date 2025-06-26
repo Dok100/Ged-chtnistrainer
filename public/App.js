@@ -123,4 +123,3 @@ function SequenceExercise() {
   );
 }
 
-export default App;
