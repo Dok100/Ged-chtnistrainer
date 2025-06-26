@@ -1,2 +1,2 @@
-# Ged-chtnistrainer
+# Gedächtnistrainer
 Trainings für das Kurzzeitgedächtnisss
